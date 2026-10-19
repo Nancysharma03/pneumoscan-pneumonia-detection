@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+models/*.keras
+*.keras
+.ipynb_checkpoints/
